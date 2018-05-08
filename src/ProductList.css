@@ -1,6 +1,6 @@
 .product-card{
-	width:20%;
-	min-width: 110px;
+	min-width: 25%;
+	height: 340px;
 	flex: 15%;
 	margin: 0 30px 30px 0;
 	border-radius: 3px;
@@ -12,46 +12,47 @@
 
 .product-productImg{
 	width: 97%;
-	height: 97px;
-	padding: 2px;
+	height: 55%;
+	padding: 4px;
 }
 
 .product-brandName,
 .product-price{
 	text-align: center;
 	margin: 0;
-	font-size: 10px;
-	padding-bottom: 2px;
+	font-size: 16px;
+	padding-bottom: 4px;
 }
 
 .product-price{
-	font-size: 9px;
+	font-size: 1rem;
 	font-weight: 500;
 }
 
 .product-productName,
 .product-packageDetail{
-	font-size: 8px;
+	font-size: 15px;
 	text-align: center;
 	margin: 0;
-	padding-bottom: 2px;
+	padding-bottom: 5px;
 }
 
 .button-parent{
 	display: block;
-	padding:0 0 5px 10px;
+	padding:0 0 10px 20px;
+	margin-left: 15px;
 }
 
 .button-parent span:nth-of-type(even){
-	font-size: 10px;
+	font-size: 16px;
 	text-align: center;
 	background-color:#aecdd4;
 	color:#eaeef2;
 	font-weight:500;
 	display: inline-block;
 	padding: 5.7px 0 1px 0;
-	width: 53px;
-	height: 15px;
+	width: 90px;
+	height: 30px;
    
 } 
 .button-parent span:nth-of-type(odd){
@@ -59,12 +60,13 @@
 	display: inline-block;
 	text-align: center;
 	background-color: #508b99;
-	width:15px;
-	padding:0 2px 2.5px 5px;
+	width:30px;
+	height:30px;
+	padding:5.5px 2px 1px 5px;
 }
 
 .button-parent button{
-	font-size: 10px;
+	font-size: 16px;
 	border:none;
 	padding:0;
 	color: #eaeef2;

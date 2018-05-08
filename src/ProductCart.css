@@ -2,7 +2,7 @@
 	border: 2px solid #6BA4B1;
 	background-color: #6BA4B1;
 	color:#eaeef2;
-	width: 180px;
+	width: 280px;
 	border-radius: 5px;
 	padding: 10px;
 	-webkit-box-shadow: 7px 6px 13px 0px rgba(12,56,69,1);
@@ -13,12 +13,12 @@
 
 .cart-info>p {
 	text-align: center;
-	font-size: 10px;
+	font-size: 20px;
 	font-weight: 700;
 }
 
 .summary-table{
-	font-size: 10px;
+	font-size: 16px;
 	width: 100%;
 }
 
@@ -39,7 +39,7 @@
 }
 
 .summary-table-info{
-	font-size: 10px;
+	font-size: 16px;
 	width: 100%;
 	visibility: hidden;
 }
@@ -56,17 +56,17 @@
 
 .summary-table-info tr td:nth-of-type(1),
 .summary-table-info tr th:nth-of-type(1){
-	width: 100px;
+	width: 200px;
 }
 
 .summary-table-info tr td:nth-of-type(2),
 .summary-table-info tr th:nth-of-type(2){
-	width: 50px;
+	width: 100px;
 }
 
 .summary-table-info tr td:nth-of-type(3),
 .summary-table-info tr th:nth-of-type(3){
-	width: 25px;
+	width: 50px;
 }
 
 .summary-table-info tr button{
@@ -76,6 +76,7 @@
 	outline: none;
 	cursor:pointer;
 	background-color: #6BA4B1;
+	font-size: 20px;
 }
 
 .summary-table-info td:last-of-type:hover{
