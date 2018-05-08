@@ -1,0 +1,57 @@
+[
+	{
+		"id": 1,
+		"productImg":"goodlife.jpg",
+		"brandName": "Nandhini",
+		"productName": "Good Life Cow Milk",
+		"packageDetail": "500ml Pack",
+		"key":"one",
+		"price": 30
+	},
+	{
+		"id": 2,
+		"productImg":"heinzketchup.jpg",
+		"brandName": "Heinz",
+		"productName": "Tomato Ketchup",
+		"packageDetail": "900gm Bottle",
+		"key":"two",
+		"price": 140
+	},
+	{
+		"id": 3,
+		"productImg":"kissanjam.jpg",
+		"brandName": "Kissan",
+		"productName": "Mixed Fruit Jam",
+		"packageDetail": "100gm box",
+		"key":"three",
+		"price": 25
+	},
+	{
+		"id": 4,
+		"productImg":"maggi.jpg",
+		"brandName": "Maggi",
+		"productName": "Masala Noodles",
+		"packageDetail": "560g pack",
+		"key":"four",
+		"price": 76
+	},
+	{
+		"id": 5,
+		"productImg":"oreo.jpg",
+		"brandName": "Cadbury",
+		"productName": "Oreo Vanilla",
+		"packageDetail": "120 gm Pack of 10",
+		"key":"five",
+		"price": 255
+	},
+	{
+		"id": 6,
+		"productImg":"tropicana.jpg",
+		"brandName": "Tropicana",
+		"productName": "Tropicana Apple Juice",
+		"packageDetail": "1 ltr Pack",
+		"key":"six",
+		"price": 260
+		
+	}
+]
